@@ -1,1 +1,1 @@
-<img src="./space-banner.svg" alt="Espaço Animado" width="100%" />
+<img src="space-banner.svg" alt="Luiz Finger" width="100%" />
